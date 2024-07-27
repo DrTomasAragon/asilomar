@@ -10,6 +10,7 @@
 
 ## Blog
 - [Team Public Health](https://www.whatmatters.com/) (Substack blog by Tomás)
+  - [Leadership is getting results in a way that inspires trust (part 2): A common sense framework for building and extending trust](https://teampublichealth.substack.com/p/leadership-is-getting-results-in-2f3)   
 
 
 [^pto]: Person-Team-Organization
