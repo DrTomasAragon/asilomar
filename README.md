@@ -1,4 +1,4 @@
-# Becoming a Learning, Healing, and Impactful Person, Team, Organizatin (PTO) - Asilomar 
+# Becoming a Learning, Healing, and Impactful Person, Team, Organization (PTO) - Asilomar 
 
 ## Excalidraw slides click on this link:
 - [Becoming a Learning, Healing, and Impactful Person, Team, Organization](https://link.excalidraw.com/p/readonly/WN9Qno7Jv9pqT2zuvVHr)
