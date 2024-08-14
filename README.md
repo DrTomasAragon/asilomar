@@ -1,4 +1,4 @@
-# Becoming a Learning, Healing, and Impactful PTO[^pto] - Asilomar 
+# Becoming a Learning, Healing, and Impactful Person, Team, Organizatin (PTO) - Asilomar 
 
 ## Excalidraw slides click on this link:
 - [Becoming a Learning, Healing, and Impactful Person, Team, Organization](https://link.excalidraw.com/p/readonly/WN9Qno7Jv9pqT2zuvVHr)
@@ -11,12 +11,8 @@
 - [Why the secret to success is setting the right goals | John Doerr | TED](https://www.youtube.com/watch?v=L4N1q4RNi9I) (11 min TED talk on YouTube)
 - [John Doerr's OKR website](https://www.whatmatters.com/)
 
-## Blog 
-
-https://substack.com/@drtomasaragon
+## Blog - Team Public Health
 
 The CDPH Way—Becoming a [learning](https://teampublichealth.substack.com/t/learning), [healing](https://teampublichealth.substack.com/t/healing), and [impactful](https://teampublichealth.substack.com/t/t/impactful) organization.
-  
 
-
-[^pto]: Person-Team-Organization
+https://substack.com/@drtomasaragon
