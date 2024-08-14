@@ -11,10 +11,12 @@
 - [Why the secret to success is setting the right goals | John Doerr | TED](https://www.youtube.com/watch?v=L4N1q4RNi9I) (11 min TED talk on YouTube)
 - [John Doerr's OKR website](https://www.whatmatters.com/)
 
-## Blog
-- [Team Public Health](https://www.whatmatters.com/) (Substack blog by Tomás)
-  - [Why I embrace lean -- and you should too: More than an improvement framework, lean embodies public health values](https://teampublichealth.substack.com/p/why-i-embrace-lean-and-you-should)
-  - [Leadership is getting results in a way that inspires trust (part 2): A common sense framework for building and extending trust](https://teampublichealth.substack.com/p/leadership-is-getting-results-in-2f3)   
+## Blog 
+
+https://substack.com/@drtomasaragon
+
+The CDPH Way—Becoming a [learning](https://substack.com/t/learning), [healing](https://substack.com/t/healing), and [impactful](https://substack.com/t/impactful) organization.
+  
 
 
 [^pto]: Person-Team-Organization
