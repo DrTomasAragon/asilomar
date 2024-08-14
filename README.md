@@ -15,7 +15,7 @@
 
 https://substack.com/@drtomasaragon
 
-The CDPH Way—Becoming a [learning](https://substack.com/t/learning), [healing](https://substack.com/t/healing), and [impactful](https://substack.com/t/impactful) organization.
+The CDPH Way—Becoming a [learning](https://teampublichealth.substack.com/t/learning), [healing](https://teampublichealth.substack.com/t/healing), and [impactful](https://teampublichealth.substack.com/t/t/impactful) organization.
   
 
 
