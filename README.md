@@ -9,4 +9,4 @@
 ## Blog - Team Public Health
 
 - The CDPH Way—Becoming a [learning](https://teampublichealth.substack.com/t/learning), [healing](https://teampublichealth.substack.com/t/healing), and [impactful](https://teampublichealth.substack.com/t/t/impactful) organization.
-- My home page: https://substack.com/@drtomasaragon
+- My home page: https://substack.com/@tomasaragon
